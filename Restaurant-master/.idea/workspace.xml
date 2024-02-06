@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07490262-09da-4dce-9b59-56f04f1450c2" name="Changes" comment="Package Application:&#10;class AdminMenu - checks if the user is an admin and if so then the admin can change the prices of dishes&#10;class UserMenu - profile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Liz1EcfVolouHgKUh9N1kDyPrx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/Java/Java projects/Restaurant21/.idea/libraries/mysql-connector-j-8.0.32.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Data.Interface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dogisday\IdeaProjects\Restraunt\src\" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Interface" />
+      <recent name="Users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed (1)">
+    <configuration name="Unnamed (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed (1)" />
+      <item itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07490262-09da-4dce-9b59-56f04f1450c2" name="Changes" comment="" />
+      <created>1676368474514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676368474514</updated>
+      <workItem from="1676403741352" duration="68000" />
+      <workItem from="1676421003687" duration="3758000" />
+      <workItem from="1676443077412" duration="333000" />
+      <workItem from="1676513992969" duration="31000" />
+      <workItem from="1676523870590" duration="2723000" />
+      <workItem from="1676558177989" duration="7793000" />
+      <workItem from="1676603810316" duration="1049000" />
+      <workItem from="1676658408072" duration="2915000" />
+      <workItem from="1677154076930" duration="6693000" />
+      <workItem from="1677175719569" duration="24287000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created Entities: User, Admin; their interfaces: IUser, IAdmin; Application(just created).">
+      <created>1676593620875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676593620875</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Package Data:&#10;class Mysql - to connect to the MySql database">
+      <created>1677299939305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677299939305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Package Repositories:&#10;UserRepository:&#10;Methods:&#10;createUser,deleteUser,updateUserName,updateUserPassword,updateUserBalance,getUser,getAllUsers,">
+      <created>1677303395717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677303395717</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Package Controller:&#10;UserController - there are functions to create,delete,update users&#10;MenuController - methods for buying a dish on the menu">
+      <created>1677309586843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677309586843</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Package Application:&#10;class AdminMenu - checks if the user is an admin and if so then the admin can change the prices of dishes&#10;class UserMenu - profile">
+      <created>1677309893110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677309893110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Interface for UserRepository" />
+    <MESSAGE value="Created Entities: User, Admin; their interfaces: IUser, IAdmin; Application(just created)." />
+    <MESSAGE value="Package Data:&#10;class Mysql - to connect to the MySql database" />
+    <MESSAGE value="Package Repositories:&#10;UserRepository:&#10;Methods:&#10;createUser,deleteUser,updateUserName,updateUserPassword,updateUserBalance,getUser,getAllUsers," />
+    <MESSAGE value="Package Controller:&#10;UserController - there are functions to create,delete,update users&#10;MenuController - methods for buying a dish on the menu" />
+    <MESSAGE value="Package Application:&#10;class AdminMenu - checks if the user is an admin and if so then the admin can change the prices of dishes&#10;class UserMenu - profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Package Application:&#10;class AdminMenu - checks if the user is an admin and if so then the admin can change the prices of dishes&#10;class UserMenu - profile" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
