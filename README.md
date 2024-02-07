@@ -21,25 +21,10 @@ Columns: "id," "food_name," "price."
 users Table:
 Columns: "id," "username," "password," "balance."
 
-## Project Structure
-RestaurantProject
-│ README.md
-│ .gitignore
-│
-└───src
-│ └───com
-│ └───restaurant
-│ │ RestaurantApp.java
-│ │
-│ └───model
-│ │ Admin.java
-│ │ MenuItem.java
-│ │ User.java
-│
-└───lib
-│ │ mysql-connector-java-x.x.x.jar
-│
-└───sql
-│ restaurant.sql
+## Dependencies
+*  Java SE Development Kit
+*  MySQL Database Server
+*  MySQL Connector/J (JDBC Driver)
+
 
 
