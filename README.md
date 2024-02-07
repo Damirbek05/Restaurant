@@ -23,23 +23,23 @@ Columns: "id," "username," "password," "balance."
 
 ## Project Structure
 RestaurantProject
-│   README.md
-│   .gitignore
+│ README.md
+│ .gitignore
 │
 └───src
-│   └───com
-│       └───restaurant
-│           │   RestaurantApp.java
-│           │
-│           └───model
-│               │   Admin.java
-│               │   MenuItem.java
-│               │   User.java
+│ └───com
+│ └───restaurant
+│ │ RestaurantApp.java
+│ │
+│ └───model
+│ │ Admin.java
+│ │ MenuItem.java
+│ │ User.java
 │
 └───lib
-│   │   mysql-connector-java-x.x.x.jar
+│ │ mysql-connector-java-x.x.x.jar
 │
 └───sql
-    │   restaurant.sql
+│ restaurant.sql
 
 
